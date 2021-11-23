@@ -19,7 +19,7 @@ body {
 header {
     width: 100%;
     height: 650px;
-    background: url('./images/header-bg.jpg');
+    background: url('../images/header-bg.jpg');
     background-size: cover;
     position: relative;
 }
@@ -143,7 +143,7 @@ header .head-content .foot-scroll .scroll {
     width: 100%;
     height: 700px;
     padding-top:15%;
-    background: url('./images/be-the-first-bg.jpg');
+    background: url('../images/be-the-first-bg.jpg');
     background-size: cover;
     background-attachment: fixed;
     text-align: center;

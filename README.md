@@ -3,4 +3,4 @@
 2. CSS 3
 3. Js
 ## my project-2 live
-https://2020abdullah.github.io/my-Project2/
+https://2020abdullah.github.io/my-Project-2/
